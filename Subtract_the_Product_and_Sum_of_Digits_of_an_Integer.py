@@ -1,0 +1,10 @@
+x=int(input())
+r=0
+sum=0
+pro=1
+while(x>0):
+    r=x%10
+    sum+=r
+    pro*=r
+    x=x//10
+print(pro-sum)
