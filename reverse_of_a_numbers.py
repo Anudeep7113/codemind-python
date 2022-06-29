@@ -1,7 +1,7 @@
-N=int(input(""))
-sum=0
-while(N>0):
-    r=N%10
-    sum=sum*10+r
-    N=N//10
-print(sum)
+n=int(input())
+rev=0
+while n!=0:
+    i=n%10
+    rev=rev*10+i
+    n=n//10
+print(rev)
