@@ -1,0 +1,15 @@
+x=int(input())
+d=0
+i=0
+while(x!=0):
+    r=x%10
+    d=d+r*pow(8,i)
+    i+=1
+    x=x//10
+b,j=0,0
+while(d!=0):
+    r=d%2
+    b=b+r*pow(10,j)
+    j+=1
+    d=d//2
+print(b)
