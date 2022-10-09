@@ -27,4 +27,3 @@ if c==2:
         print('Not Mega Prime')
 else:
     print('Not Mega Prime')
-        
