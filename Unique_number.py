@@ -21,4 +21,3 @@ for i in range(c):
         d=d+1
 if c==d:
     print('Unique Number')
-    
