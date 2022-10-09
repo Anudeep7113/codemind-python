@@ -9,3 +9,4 @@ if(sum==n):
     print("Neon Number")
 else:
     print("Not Neon Number")
+ 
