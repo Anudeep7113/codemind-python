@@ -14,4 +14,3 @@ for i in range(1,x+1):
         c1=c1+1
 if c1==x:
     print(False)
-        
