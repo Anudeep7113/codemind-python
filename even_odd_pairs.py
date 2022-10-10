@@ -16,4 +16,3 @@ for i in range(d):
 if(n%2==1):
     print('0')
 
-
