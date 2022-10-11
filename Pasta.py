@@ -12,4 +12,3 @@ if(s==k):
 else:
     print('No')
 
-
