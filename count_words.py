@@ -8,4 +8,3 @@ for i in x.split():
         if i[d-1] in b:
             c+=1
 print(c)
-
