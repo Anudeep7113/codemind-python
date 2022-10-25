@@ -16,4 +16,3 @@ if(c==0):
 else:
     for i in d:
         print(i,end="")
-
